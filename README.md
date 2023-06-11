@@ -66,4 +66,8 @@ Next we want to create our config, To do this make sure that the plugin name is 
 We can get all of these values from the config, by simply typing <br>
 `config.get_config("NAME_OF_VALUE")`<br>
 <b>NOTE</b>: These are cap sensitive, so make sure you get them correct!<br>
-<img src="https://raw.githubusercontent.com/FinGymPlayz/Scripting-Plugins/main/imgs/img12.png" width="350px">
+<img src="https://raw.githubusercontent.com/FinGymPlayz/Scripting-Plugins/main/imgs/img12.png" width="350px"><br>
+This will return the literal value of each!
+
+# Uploading to webstore + NotepadPlus Social
+[follow this guide by clicking here](https://github.com/FinGymPlayz/NotepadPlus-PluginTutorial/blob/main/README.md#publishing-your-plugin-to-the-webstore)
